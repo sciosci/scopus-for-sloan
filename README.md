@@ -6,10 +6,10 @@ Please clone this repo and run your search functions under the same folder.
 
 ## Important Notes
 
-1. Run your searches via university network or otherwise the access will be denied by Scopus. VPN doesn't work but you can run it on remote lab. Just make sure the lab connection stays on before you search finishes.
+1. Run your searches via university network or otherwise the access will be denied by Scopus. VPN doesn't work but you can run it on remote lab. Just make sure the lab connection stays on before your search finishes.
 2. Make sure you have enough keys and save them in "keys.csv" in the same folder. There's a sample file in this repo for you to run some tests.
 3. Each API offers an explanation for the data fields in its response, e.g. [Scopus Search Views](https://dev.elsevier.com/sc_search_views.html). You can refer to their documentations for interpretation.
-4. A folder named "results" is generated each time
+4. A folder named "results" is generated each time if there isn't one.
 
 ## Others
 
